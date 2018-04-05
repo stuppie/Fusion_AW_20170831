@@ -1,0 +1,8 @@
+,biological,technical,unenriched,probe,sample_type,sample_type2,sample_name,path
+Neg1rep1,1,1,FALSE,FALSE,neg,probe,neg1,data/Neg1rep1/DTASelect-filter.txt
+unenriched1,1,1,TRUE,FALSE,unenriched,unenriched,unenriched1,data/unenriched1/DTASelect-filter.txt
+unenriched2,2,1,TRUE,FALSE,unenriched,unenriched,unenriched2,data/unenriched2/DTASelect-filter.txt
+unenriched3,3,1,TRUE,FALSE,unenriched,unenriched,unenriched3,data/unenriched3/DTASelect-filter.txt
+VK1rep1,1,1,FALSE,TRUE,probe,probe,vk1,data/VK1rep1/DTASelect-filter.txt
+VK3rep1,1,1,FALSE,TRUE,probe,probe,vk3,data/VK3rep1/DTASelect-filter.txt
+VK5rep1,1,1,FALSE,TRUE,probe,probe,vk5,data/VK5rep1/DTASelect-filter.txt
